@@ -5,7 +5,6 @@ import loansData from "./data/loans.json";
 
 // TIMELINE TEST 2 - safe to delete
 
-// TIMELINE TEST 3 - safe to delete
 
 function App() {
   const loans = loansData.loans || [];
